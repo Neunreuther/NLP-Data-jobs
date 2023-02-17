@@ -4,5 +4,5 @@ As students in our final year of master's program, we are preparing to enter the
 
 ## Authors
 
-- NEUNREUTHER Alexander @Neunreuther
-- LANEVE Louis @LANEVE
+- NEUNREUTHER Alexander @neunreuther
+- LANEVE Louis @laneve
