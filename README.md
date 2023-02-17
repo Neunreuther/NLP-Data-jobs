@@ -4,5 +4,5 @@ As students in our final year of master's program, we are preparing to enter the
 
 ## Authors
 
-- NEUNREUTHER Alexander(https://github.com/Neunreuther)
-- LANEVE Louis(https://github.com/LANEVE)
+- NEUNREUTHER Alexander (https://github.com/Neunreuther)
+- LANEVE Louis (https://github.com/LANEVE)
