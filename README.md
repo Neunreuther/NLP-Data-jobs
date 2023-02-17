@@ -4,4 +4,5 @@ As students in our final year of master's program, we are preparing to enter the
 
 ## Authors
 
-Dans cette section, vous pouvez ajouter des remarques supplémentaires sur votre projet, telles que les dépendances, les crédits et les remerciements.
+- NEUNREUTHER Alexander
+- LANEVE Louis
